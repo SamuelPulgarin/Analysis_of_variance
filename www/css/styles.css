@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: 'Urbanist', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Urbanist', sans-serif;
+    color: #5F249F;
+}
+
+.navbar {
+  margin: 0;
+  background-color: #5F249F;
+  padding: 10px 0;
+}
+      
+.navbar img {
+  height: 40px; 
+  width: auto; 
+}
+
+/* urbanist-<uniquifier> {
+  font-family: "Urbanist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
