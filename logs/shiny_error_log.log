@@ -1,0 +1,48 @@
+2024-07-10 11:31:31.295689 - Error in lme4::lFormula(formula = md, data = ds, REML = T, control = structure(list(: 0 (non-NA) cases
+ 
+2024-07-10 11:31:37.222693 - Error in lme4::lFormula(formula = md, data = ds, REML = T, control = structure(list(: 0 (non-NA) cases
+ 
+2024-07-10 16:07:35.905294 - Error in ds[, vr]: objeto de tipo 'closure' no es subconjunto
+ 
+2024-07-22 13:39:58.637237 - Error in eval(expr, envir = envir, enclos = baseenv()): objeto 'BYZZZZ' no encontrado
+ 
+2024-07-22 13:40:22.025896 - Error in eval(expr, envir = envir, enclos = baseenv()): objeto 'BYZZZZ' no encontrado
+ 
+2024-07-22 13:48:10.394218 - Error in eval(expr, envir = envir, enclos = baseenv()): objeto 'BYZZZZ' no encontrado
+ 
+2024-07-22 13:50:07.450613 - Error in eval(expr, envir = envir, enclos = baseenv()): objeto 'BYZZZZ' no encontrado
+ 
+2024-07-22 13:51:30.312424 - Error in `contrasts<-`(`*tmp*`, value = contr.funs[1 + isOF[nn]]): contrasts can be applied only to factors with 2 or more levels
+ 
+2024-07-22 13:52:25.048905 - Error in `$<-.data.frame`(`*tmp*`, "units", value = c("u0", "u1")): replacement has 2 rows, data has 0
+ 
+2024-07-22 13:55:56.784754 - Error in `$<-.data.frame`(`*tmp*`, "units", value = c("u0", "u1")): replacement has 2 rows, data has 0
+ 
+2024-07-30 09:55:15.296616 - Error in FUN(X[[i]], ...): el argumento "class_var" está ausente, sin valor por omisión
+ 
+2024-07-30 15:02:57.027186 - Error in FUN(X[[i]], ...): el argumento "class_var" está ausente, sin valor por omisión
+ 
+2024-07-30 15:25:43.08459 - Error in FUN(X[[i]], ...): argument "class_var" is missing, with no default
+ 
+2024-07-30 15:37:41.959305 - Error in FUN(X[[i]], ...): argument "class_var" is missing, with no default
+ 
+2024-07-30 15:40:17.716688 - Error in h(simpleError(msg, call)): error in evaluating the argument 'x' in selecting a method for function 'print': argument "class_var" is missing, with no default
+ 
+2024-07-30 15:41:25.410724 - Error in h(simpleError(msg, call)): error in evaluating the argument 'x' in selecting a method for function 'print': argument "class_var" is missing, with no default
+ 
+2024-07-30 15:45:51.243227 - Error in h(simpleError(msg, call)): error in evaluating the argument 'x' in selecting a method for function 'print': argument "class_var" is missing, with no default
+ 
+2024-08-01 08:22:10.276243 - Error: grouping factors must have > 1 sampled level
+ 
+2024-08-01 11:17:08.519163 - Error: grouping factors must have > 1 sampled level
+ 
+2024-08-01 11:26:49.538794 - Error: grouping factors must have > 1 sampled level
+ 
+2024-08-01 11:33:33.788069 - Error: grouping factors must have > 1 sampled level
+ 
+2024-08-01 11:34:35.319512 - Error: grouping factors must have > 1 sampled level
+ 
+2024-08-01 11:36:20.21073 - Error: grouping factors must have > 1 sampled level
+ 
+2024-08-01 11:49:13.118125 - Error: grouping factors must have > 1 sampled level
+ 
